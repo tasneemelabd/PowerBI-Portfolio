@@ -31,7 +31,7 @@ The dashboard is organized into 4 main pages:
 
 ## 📁 Files
 
-- `olist_dashboard.pbix` – Power BI project file
+-  Download the .pbix file https://github.com/tasneemelabd/PowerBI-Portfolio/releases/download/v1.0/power.BI.OLIST.pbix
 - `data/` – Source data files
 - `screenshots/` – Dashboard page previews
 
