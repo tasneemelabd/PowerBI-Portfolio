@@ -33,7 +33,10 @@ The dashboard is organized into 4 main pages:
 
 -  Download the .pbix file https://github.com/tasneemelabd/PowerBI-Portfolio/releases/download/v1.0/power.BI.OLIST.pbix
 - `data/` – Source data files
-- `screenshots/` – Dashboard page previews
+- `[Executive Dashboard](executive-dashboard.png)
+   [Sales Analysis](sales-analysis.png)
+   [Customer Experience](customer-experience.png)
+   [Product Performance](product-performance.png)
 
 ## 📬 Contact
 
