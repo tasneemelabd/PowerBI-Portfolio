@@ -1,10 +1,10 @@
-# Olist E-commerce Dashboard 📊
+# 🛒 Olist E-commerce Dashboard 📊
 
-An interactive Power BI dashboard analyzing e-commerce data from **Olist**, a Brazilian marketplace platform. The dashboard turns raw sales, customer, and product data into clear insights that support data-driven business decisions.
+An interactive Power BI dashboard analyzing e-commerce data from Olist, a Brazilian marketplace platform. The dashboard turns raw sales, customer, and product data into clear insights that support data-driven business decisions.
 
 ## 🔍 Overview
 
-The dashboard is organized into 4 main pages:
+The dashboard is organized into 4 main pages, plus a cover page with navigation:
 
 - **Executive Dashboard** – A high-level summary of total revenue, total orders, total products, and average review score, with monthly revenue trends and order status breakdown.
 - **Sales Analysis** – Deep dive into sales performance by product category and geographic region (customer state/city).
@@ -27,18 +27,22 @@ The dashboard is organized into 4 main pages:
 
 ## 🖼️ Dashboard Preview
 
-*(Screenshots of each page go here)*
+### Executive Dashboard
+![Executive Dashboard](executive-dashboard.png)
+
+### Sales Analysis
+![Sales Analysis](sales-analysis.png)
+
+### Customer Experience
+![Customer Experience](customer-experience.png)
+
+### Product Performance
+![Product Performance](product-performance.png)
 
 ## 📁 Files
 
--  Download the .pbix file https://github.com/tasneemelabd/PowerBI-Portfolio/releases/download/v1.0/power.BI.OLIST.pbix
-- `data/` – Source data files
-- `[Executive Dashboard](executive-dashboard.png)
-   [Sales Analysis](sales-analysis.png)
-   [Customer Experience](customer-experience.png)
-   [Product Performance](product-performance.png)
+- 📥 [Download the .pbix file](https://github.com/tasneemelabd/PowerBI-Portfolio/releases/download/v1.0/power.BI.OLIST.pbix) (requires Power BI Desktop)
 
 ## 📬 Contact
 
-**Tasneem Elabd**
-[LinkedIn](https://www.linkedin.com/in/tasneem-elabd-data-analytics114)
+**Tasneem Elabd** — [LinkedIn](https://www.linkedin.com/in/tasneem-elabd-data-analytics114)
